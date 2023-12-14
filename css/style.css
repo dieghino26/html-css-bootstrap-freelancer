@@ -91,4 +91,24 @@ header {
     background-color: #2C3E4F;
 }
 
-/*portfolio*/
+/*footer*/
+footer {
+    background-color: #2C3E4F;
+}
+
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+.navbar-toggler {
+    filter: invert(100%);
+}
+
+.max_height {
+    max-height: 40px;
+}
+
+.border_bottom {
+    border: 0;
+    border-bottom: 1px solid gray;
+}
