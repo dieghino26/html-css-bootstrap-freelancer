@@ -8,3 +8,83 @@
 header {
     background-color: #2C3E4F;
 }
+
+.color_white {
+    color: white;
+}
+
+.lil_font {
+    font-size: 0.6em;
+}
+
+.uppercase {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.bg_color_acquamarine {
+    background-color: #19BC9B;
+}
+
+.bg_color_white {
+    background-color: #FFFFFF;
+}
+
+.bg_color_gray {
+    background-color: #3B536D;
+}
+
+.hr_white {
+    border: 2px solid white;
+    opacity: 1;
+}
+
+.hr_black {
+    border: 2px solid black;
+    opacity: 1;
+}
+
+.font_size_big {
+    font-size: 2em;
+}
+
+.font_size_small {
+    font-size: 0.8em;
+}
+
+.max_width_100 {
+    max-width: 100%;
+    object-fit: contain
+}
+
+.border_radius {
+    border-radius: 10px;
+}
+
+.button_a {
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+
+.padding_top {
+    padding-top: 6em;
+}
+
+.btn_acquamarine {
+    background-color: #19BC9B;
+    border-radius: 10px;
+    text-decoration: none;
+    border: 0;
+    color: white;
+}
+
+.acquamarine {
+    text-decoration: none;
+    color: #19BC9B;
+}
+
+.gap_em {
+    gap: 0.5em;
+}
