@@ -5,10 +5,7 @@
     box-sizing: border-box;
 }
 
-header {
-    background-color: #2C3E4F;
-}
-
+/*utils*/
 .color_white {
     color: white;
 }
@@ -88,3 +85,10 @@ header {
 .gap_em {
     gap: 0.5em;
 }
+
+/*header*/
+header {
+    background-color: #2C3E4F;
+}
+
+/*portfolio*/
